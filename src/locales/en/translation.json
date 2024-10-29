@@ -1,0 +1,20 @@
+{
+  "workspace": "Workspace > Creative >",
+  "creative_design": "Creative design",
+  "website_design": "Website Design",
+  "from_date": "From 23 April",
+  "updated_time": "Updated 12 minutes ago",
+  "limited_access": "Limited access",
+  "all_tasks": "All tasks",
+  "completed": "Completed",
+  "to_do": "To do",
+  "in_progress": "In Progress",
+  "filter_sort": "Filter & Sort",
+  "new_task": "New task",
+  "add_task": "Add Task",
+  "enter_task": "Enter new task",
+  "cancel": "Cancel",
+  "completed_status": "Completed",
+  "to_do_status": "To do",
+  "task_image_alt": "Task image"
+}
